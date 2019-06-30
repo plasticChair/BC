@@ -20,6 +20,7 @@ void displaydata(int ii) {
 	int  offsetChar = 0;
 
 	display.clearDisplay();
+	display.setRotation(2); 
 	display.setTextColor(WHITE);
 	display.setFont(&Orbitron_Bold_39);
 	display.setTextSize(1);

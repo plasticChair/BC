@@ -8,13 +8,13 @@
 	Hardware: SAMD21 Custom, Platform=samd, Package=arduino
 */
 
-#define ARDUINO 10806
+#define ARDUINO 10809
 #define ARDUINO_MAIN
 #define F_CPU 48000000L
 #define printf iprintf
 #define __SAMD__
 #define F_CPU 48000000L
-#define ARDUINO 10806
+#define ARDUINO 10809
 #define ARDUINO_SAMD_ZERO
 #define ARDUINO_ARCH_SAMD
 #define __SAMD21G18A__

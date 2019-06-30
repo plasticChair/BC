@@ -72,7 +72,7 @@ uint8_t IMU_INT1_19 = PA19;
 uint8_t IMU_INT1_20 = PA20;
 uint8_t IMU_INT1_21 = PA21;
 
-uint8_t LED = PA22;
+uint8_t LED = PB22;
 
 
 #endif /* PIN_MAP_H_ */
